@@ -34,6 +34,7 @@ void main()
 }
 static class algorthytms
 {
+    //как то странно работает, если ваще работает<3
     public static int[] sort(int[] list)
     {
         int temp;
